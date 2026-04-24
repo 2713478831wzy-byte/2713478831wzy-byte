@@ -1,7 +1,7 @@
 # 👋 你好，我是王绛
 
 <div align="center">
-  <img src="https://picsum.photos/id/40/300/300" width="150" height="150" style="border-radius:50%;">
+  <img src="./avatar.jpg" width="150" height="150" style="border-radius:50%;">
   <br>
   <p>江大计算机中澳2+2大二学生 | 即将前往昆士兰大学</p>
 </div>
@@ -12,8 +12,6 @@
 - 🎓 江南大学计算机中澳2+2项目，大二在读
 - ✈️ 即将前往澳大利亚布里斯班，就读昆士兰大学
 - 🎯 未来方向：深耕 AI / Agent 开发，优先澳洲就业
-- 🏠 我的个人名片主页：https://2713478831wzy-byte.github.io
-
 ---
 
 ## 🛠️ 技能栈
