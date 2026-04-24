@@ -1,7 +1,7 @@
 # 👋 你好，我是王绛
 
 <div align="center">
-  <img src="https://i.imgur.com/4xGzDvL.jpg" width="150" height="150" style="border-radius:50%;">
+  <img src="https://picsum.photos/id/40/300/300" width="150" height="150" style="border-radius:50%;">
   <br>
   <p>江大计算机中澳2+2大二学生 | 即将前往昆士兰大学</p>
 </div>
