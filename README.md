@@ -1,7 +1,7 @@
 # 👋 你好，我是王绛
 
 <div align="center">
-  <img src="./avatar.jpg" width="150" height="150" style="border-radius:50%;">
+  <img src="https://github.com/2713478831wzy-byte/2713478831wzy-byte/blob/main/jumao.jpg?raw=true" width="150" height="150" style="border-radius:50%;">
   <br>
   <p>江大计算机中澳2+2大二学生 | 即将前往昆士兰大学</p>
 </div>
